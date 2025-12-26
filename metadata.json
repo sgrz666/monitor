@@ -1,0 +1,5 @@
+{
+  "name": "PortGuard Monitor",
+  "description": "Real-time industrial temperature monitoring system for port equipment with AI prediction and trend analysis.",
+  "requestFramePermissions": []
+}
